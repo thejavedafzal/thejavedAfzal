@@ -14,9 +14,6 @@ Javed Afzal</a></h1>
 - 🤝 I’m available for consultation regarding Data Science for your organization
 
 
-- 📝 I an an avid researcher having published many research papers, which you can find here <a href="https://github.com/waleedjmm/Research-Papers" target="blank">Research Papers</a>
-
-
 - 🔭 I am a problem solver and find feasible solutions
 
 - 💬 Ask me anything about Data Science.

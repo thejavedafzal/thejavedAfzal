@@ -21,7 +21,7 @@ Javed Afzal</a></h1>
 
 - 💬 Ask me anything about Data Science.
 
-- 📫 How to reach me **waleed_345@hotmail.com**
+- 📫 How to reach me **thejavedafzal@gmail.com**
 
 - 📄 Know about my research experiences <a href="https://github.com/waleedjmm/Research-Papers" target="blank">Resume</a>
 <br/>

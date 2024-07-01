@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://waleedjmm.github.io/Me.io/" target="blank">
-Javed Afzal</a></h1>
+<h1 align="center">Hi 👋, I'm Javed Afzal</h1>
 <h3 align="center">I am the Director of Data Science Department at JMM Technologies </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1waleedjmm&label=Profile%20views&color=0e75b6&style=flat" alt="waleedjmm" /> </p>
